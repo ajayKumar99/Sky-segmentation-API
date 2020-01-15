@@ -42,7 +42,6 @@ mock==3.0.5
 netifaces==0.10.4
 numpy==1.18.1
 oauthlib==2.0.6
-PAM==0.4.2
 Pillow==7.0.0
 protobuf==3.11.2
 pyasn1==0.4.2
