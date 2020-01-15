@@ -73,7 +73,7 @@ tb-nightly==1.14.0a20190603
 tensorflow==2.0.0b1
 termcolor==1.1.0
 tf-estimator-nightly==1.14.0.dev2019060501
-Twisted==17.9.0
+Twisted==19.7.0
 typed-ast==1.4.1
 ufw==0.36
 unattended-upgrades==0.1
