@@ -41,7 +41,7 @@ MarkupSafe==1.0
 mccabe==0.6.1
 mock==3.0.5
 netifaces==0.10.4
-numpy==1.18.1
+numpy==1.22.0
 oauthlib==2.0.6
 Pillow==7.0.0
 protobuf==3.11.2
